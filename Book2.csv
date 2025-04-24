@@ -1,0 +1,500 @@
+Age,disease ,CONDITION ,Operation
+54,Influenza (Flu),Bad,yes 
+76,Diabetes,Bad,yes 
+44,Cancer (Various types),Severe,yes 
+68,Hypertension (High Blood Pressure),Bad,NO
+88,Alzheimer's Disease,Severe,No
+68,Parkinson's Disease,Severe,No
+78,Asthma,Good,yes 
+64,Arthritis,Bad,No
+74,Chronic Obstructive Pulmonary Disease (COPD),Server,Yes 
+64,Tuberculosis (TB),Good,Yes 
+71,Hepatitis (Various types),Bad,No
+66,Malaria,Good,yes 
+84,HIV/AIDS,Severe,yes 
+77,Ebola Virus Disease,Severe,No
+78,Dengue Fever,Good ,Yes 
+65,Cholera,Good,yes 
+84,Typhoid Fever,Bad,yes 
+78,Lyme Disease,Bad,yes 
+40,Multiple Sclerosis (MS),Bad,NO
+48,Lupus (Systemic Lupus Erythematosus),Bad,No
+58,Rheumatoid Arthritis,Bad,No
+81,Osteoporosis,Bad,yes 
+35,Celiac Disease,Bad,No
+26,Crohn's Disease,Bad,Yes 
+66,Ulcerative Colitis,Severe,Yes 
+80,Endometriosis,Severe,No
+53,Fibromyalgia,Bad,yes 
+74,Chronic Fatigue Syndrome (CFS),Bad,yes 
+80,Psoriasis,Bad,No
+90,Eczema (Atopic Dermatitis),Bad,Yes 
+72,Schizophrenia,Severe,yes 
+52,Bipolar Disorder,Severe,yes 
+77,Obsessive-Compulsive Disorder (OCD),Severe,yes 
+46,Post-Traumatic Stress Disorder (PTSD),Severe,NO
+77,Attention Deficit Hyperactivity Disorder (ADHD),Server,No
+72,Autism Spectrum Disorder (ASD),Bad,No
+71,Down Syndrome,Server,yes 
+24,Turner Syndrome,Bad,No
+49,Influenza (Flu),Bad,Yes 
+82,Diabetes,Severe,Yes 
+66,Cancer (Various types),Bad,No
+42,Hypertension (High Blood Pressure),Severe,yes 
+78,Alzheimer's Disease,Severe,yes 
+73,Parkinson's Disease,Good,No
+89,Asthma,Bad,Yes 
+71,Arthritis,Server,yes 
+27,Chronic Obstructive Pulmonary Disease (COPD),Good,yes 
+87,Tuberculosis (TB),Bad,yes 
+83,Hepatitis (Various types),Good,NO
+78,Malaria,Severe,No
+81,HIV/AIDS,Severe,No
+78,Ebola Virus Disease,Good ,yes 
+46,Dengue Fever,Good,No
+50,Cholera,Bad,Yes 
+69,Typhoid Fever,Bad,Yes 
+53,Lyme Disease,Bad,No
+74,Multiple Sclerosis (MS),Bad,yes 
+55,Lupus (Systemic Lupus Erythematosus),Bad,yes 
+80,Rheumatoid Arthritis,Bad,No
+68,Osteoporosis,Bad,Yes 
+46,Celiac Disease,Bad,yes 
+77,Crohn's Disease,Severe,yes 
+68,Ulcerative Colitis,Severe,yes 
+71,Endometriosis,Bad,NO
+61,Fibromyalgia,Bad,No
+74,Chronic Fatigue Syndrome (CFS),Bad,No
+66,Psoriasis,Bad,yes 
+65,Eczema (Atopic Dermatitis),Severe,No
+78,Schizophrenia,Severe,Yes 
+63,Bipolar Disorder,Severe,Yes 
+77,Obsessive-Compulsive Disorder (OCD),Severe,No
+23,Post-Traumatic Stress Disorder (PTSD),Server,yes 
+84,Attention Deficit Hyperactivity Disorder (ADHD),Bad,yes 
+86,Autism Spectrum Disorder (ASD),Server,No
+56,Down Syndrome,Bad,Yes 
+71,Turner Syndrome,Bad,yes 
+36,Influenza (Flu),Severe,yes 
+90,Diabetes,Bad,yes 
+45,Cancer (Various types),Severe,NO
+21,Hypertension (High Blood Pressure),Severe,No
+64,Alzheimer's Disease,Good,No
+86,Parkinson's Disease,Bad,yes 
+70,Asthma,Server,No
+43,Arthritis,Good,Yes 
+73,Chronic Obstructive Pulmonary Disease (COPD),Bad,Yes 
+87,Tuberculosis (TB),Good,No
+90,Hepatitis (Various types),Severe,yes 
+34,Malaria,Severe,yes 
+66,HIV/AIDS,Good ,No
+22,Ebola Virus Disease,Good,Yes 
+68,Dengue Fever,Bad,yes 
+87,Cholera,Bad,yes 
+41,Typhoid Fever,Bad,yes 
+29,Lyme Disease,Bad,NO
+81,Multiple Sclerosis (MS),Bad,No
+47,Lupus (Systemic Lupus Erythematosus),Bad,No
+71,Rheumatoid Arthritis,Bad,yes 
+44,Osteoporosis,Bad,No
+64,Celiac Disease,Severe,Yes 
+41,Crohn's Disease,Severe,Yes 
+79,Ulcerative Colitis,Bad,No
+45,Endometriosis,Bad,yes 
+88,Fibromyalgia,Bad,yes 
+84,Chronic Fatigue Syndrome (CFS),Bad,No
+52,Psoriasis,Severe,Yes 
+83,Eczema (Atopic Dermatitis),Severe,yes 
+36,Schizophrenia,Severe,yes 
+62,Bipolar Disorder,Severe,yes 
+88,Obsessive-Compulsive Disorder (OCD),Server,NO
+40,Post-Traumatic Stress Disorder (PTSD),Bad,No
+60,Attention Deficit Hyperactivity Disorder (ADHD),Server,No
+56,Autism Spectrum Disorder (ASD),Bad,yes 
+89,Down Syndrome,Bad,No
+83,Turner Syndrome,Severe,Yes 
+69,Influenza (Flu),Bad,Yes 
+56,Diabetes,Severe,No
+53,Cancer (Various types),Severe,yes 
+79,Hypertension (High Blood Pressure),Good,yes 
+64,Alzheimer's Disease,Bad,No
+23,Parkinson's Disease,Server,Yes 
+53,Asthma,Good,yes 
+79,Arthritis,Bad,yes 
+62,Chronic Obstructive Pulmonary Disease (COPD),Good,yes 
+64,Tuberculosis (TB),Severe,NO
+88,Hepatitis (Various types),Severe,No
+90,Malaria,Good ,No
+71,HIV/AIDS,Good,yes 
+47,Ebola Virus Disease,Bad,No
+83,Dengue Fever,Bad,Yes 
+72,Cholera,Bad,Yes 
+55,Typhoid Fever,Bad,No
+54,Lyme Disease,Bad,yes 
+61,Multiple Sclerosis (MS),Bad,yes 
+77,Lupus (Systemic Lupus Erythematosus),Bad,No
+85,Rheumatoid Arthritis,Bad,Yes 
+60,Osteoporosis,Severe,yes 
+85,Celiac Disease,Severe,yes 
+22,Crohn's Disease,Bad,yes 
+80,Ulcerative Colitis,Bad,NO
+63,Endometriosis,Bad,No
+84,Fibromyalgia,Bad,No
+71,Chronic Fatigue Syndrome (CFS),Severe,yes 
+77,Psoriasis,Severe,No
+56,Eczema (Atopic Dermatitis),Severe,Yes 
+40,Schizophrenia,Severe,Yes 
+73,Bipolar Disorder,Server,No
+81,Obsessive-Compulsive Disorder (OCD),Bad,yes 
+57,Post-Traumatic Stress Disorder (PTSD),Server,yes 
+63,Attention Deficit Hyperactivity Disorder (ADHD),Bad,No
+62,Autism Spectrum Disorder (ASD),Bad,Yes 
+58,Down Syndrome,Severe,yes 
+56,Turner Syndrome,Bad,yes 
+69,Influenza (Flu),Severe,yes 
+53,Diabetes,Severe,NO
+79,Cancer (Various types),Good,No
+67,Hypertension (High Blood Pressure),Bad,No
+90,Alzheimer's Disease,Server,yes 
+77,Parkinson's Disease,Good,No
+80,Asthma,Bad,Yes 
+82,Arthritis,Good,Yes 
+71,Chronic Obstructive Pulmonary Disease (COPD),Severe,No
+54,Tuberculosis (TB),Severe,yes 
+62,Hepatitis (Various types),Good ,yes 
+31,Malaria,Good,No
+72,HIV/AIDS,Bad,Yes 
+29,Ebola Virus Disease,Bad,yes 
+89,Dengue Fever,Bad,yes 
+67,Cholera,Bad,yes 
+74,Typhoid Fever,Bad,NO
+56,Lyme Disease,Bad,No
+74,Multiple Sclerosis (MS),Bad,No
+24,Lupus (Systemic Lupus Erythematosus),Bad,yes 
+59,Rheumatoid Arthritis,Severe,No
+83,Osteoporosis,Severe,Yes 
+47,Celiac Disease,Bad,Yes 
+90,Crohn's Disease,Bad,No
+84,Ulcerative Colitis,Bad,yes 
+72,Endometriosis,Bad,yes 
+23,Fibromyalgia,Severe,No
+51,Chronic Fatigue Syndrome (CFS),Severe,Yes 
+73,Psoriasis,Severe,yes 
+58,Eczema (Atopic Dermatitis),Severe,yes 
+35,Schizophrenia,Server,yes 
+71,Bipolar Disorder,Bad,NO
+66,Obsessive-Compulsive Disorder (OCD),Server,No
+63,Post-Traumatic Stress Disorder (PTSD),Bad,No
+63,Attention Deficit Hyperactivity Disorder (ADHD),Bad,yes 
+53,Autism Spectrum Disorder (ASD),Severe,No
+78,Down Syndrome,Bad,Yes 
+83,Turner Syndrome,Severe,Yes 
+46,Influenza (Flu),Severe,No
+60,Diabetes,Good,yes 
+63,Cancer (Various types),Bad,yes 
+60,Hypertension (High Blood Pressure),Server,No
+72,Alzheimer's Disease,Good,Yes 
+77,Parkinson's Disease,Bad,yes 
+40,Asthma,Good,yes 
+52,Arthritis,Severe,yes 
+76,Chronic Obstructive Pulmonary Disease (COPD),Severe,NO
+88,Tuberculosis (TB),Good ,No
+81,Hepatitis (Various types),Good,No
+76,Malaria,Bad,yes 
+82,HIV/AIDS,Bad,No
+61,Ebola Virus Disease,Bad,Yes 
+50,Dengue Fever,Bad,Yes 
+86,Cholera,Bad,No
+22,Typhoid Fever,Bad,yes 
+33,Lyme Disease,Bad,yes 
+51,Multiple Sclerosis (MS),Bad,No
+83,Lupus (Systemic Lupus Erythematosus),Severe,Yes 
+39,Rheumatoid Arthritis,Severe,yes 
+44,Osteoporosis,Bad,yes 
+44,Celiac Disease,Bad,yes 
+51,Crohn's Disease,Bad,NO
+36,Ulcerative Colitis,Bad,No
+65,Endometriosis,Severe,No
+46,Fibromyalgia,Severe,yes 
+76,Chronic Fatigue Syndrome (CFS),Severe,No
+61,Psoriasis,Severe,Yes 
+73,Eczema (Atopic Dermatitis),Server,Yes 
+83,Schizophrenia,Bad,No
+73,Bipolar Disorder,Server,yes 
+54,Obsessive-Compulsive Disorder (OCD),Bad,yes 
+51,Post-Traumatic Stress Disorder (PTSD),Bad,No
+48,Attention Deficit Hyperactivity Disorder (ADHD),Severe,Yes 
+58,Autism Spectrum Disorder (ASD),Bad,yes 
+53,Down Syndrome,Severe,yes 
+58,Turner Syndrome,Severe,yes 
+62,Influenza (Flu),Good,NO
+79,Diabetes,Bad,No
+77,Cancer (Various types),Server,No
+61,Hypertension (High Blood Pressure),Good,yes 
+58,Alzheimer's Disease,Bad,No
+62,Parkinson's Disease,Good,Yes 
+33,Asthma,Severe,Yes 
+39,Arthritis,Severe,No
+57,Chronic Obstructive Pulmonary Disease (COPD),Good ,yes 
+71,Tuberculosis (TB),Good,yes 
+63,Hepatitis (Various types),Bad,No
+38,Malaria,Bad,Yes 
+61,HIV/AIDS,Bad,yes 
+59,Ebola Virus Disease,Bad,yes 
+40,Dengue Fever,Bad,yes 
+41,Cholera,Bad,NO
+48,Typhoid Fever,Bad,No
+49,Lyme Disease,Bad,No
+72,Multiple Sclerosis (MS),Severe,yes 
+74,Lupus (Systemic Lupus Erythematosus),Severe,No
+86,Rheumatoid Arthritis,Bad,Yes 
+86,Osteoporosis,Bad,Yes 
+61,Celiac Disease,Bad,No
+74,Crohn's Disease,Bad,yes 
+65,Ulcerative Colitis,Severe,yes 
+21,Endometriosis,Severe,No
+28,Fibromyalgia,Severe,Yes 
+65,Chronic Fatigue Syndrome (CFS),Severe,yes 
+62,Psoriasis,Server,yes 
+73,Eczema (Atopic Dermatitis),Bad,yes 
+84,Schizophrenia,Server,NO
+74,Bipolar Disorder,Bad,No
+74,Obsessive-Compulsive Disorder (OCD),Bad,No
+57,Post-Traumatic Stress Disorder (PTSD),Severe,yes 
+77,Attention Deficit Hyperactivity Disorder (ADHD),Bad,No
+57,Autism Spectrum Disorder (ASD),Severe,Yes 
+53,Down Syndrome,Severe,Yes 
+78,Turner Syndrome,Good,No
+39,Influenza (Flu),Bad,yes 
+86,Diabetes,Server,yes 
+83,Cancer (Various types),Good,No
+41,Hypertension (High Blood Pressure),Bad,Yes 
+76,Alzheimer's Disease,Good,yes 
+56,Parkinson's Disease,Severe,yes 
+40,Asthma,Severe,yes 
+62,Arthritis,Good ,NO
+48,Chronic Obstructive Pulmonary Disease (COPD),Good,No
+80,Tuberculosis (TB),Bad,No
+85,Hepatitis (Various types),Bad,yes 
+43,Malaria,Bad,No
+82,HIV/AIDS,Bad,Yes 
+75,Ebola Virus Disease,Bad,Yes 
+78,Dengue Fever,Bad,No
+83,Cholera,Bad,yes 
+80,Typhoid Fever,Bad,yes 
+81,Lyme Disease,Severe,No
+85,Multiple Sclerosis (MS),Severe,Yes 
+68,Lupus (Systemic Lupus Erythematosus),Bad,yes 
+84,Rheumatoid Arthritis,Bad,yes 
+41,Osteoporosis,Bad,yes 
+74,Celiac Disease,Bad,NO
+69,Crohn's Disease,Severe,No
+73,Ulcerative Colitis,Severe,No
+70,Endometriosis,Severe,yes 
+77,Fibromyalgia,Severe,No
+59,Chronic Fatigue Syndrome (CFS),Server,Yes 
+30,Psoriasis,Bad,Yes 
+67,Eczema (Atopic Dermatitis),Server,No
+64,Schizophrenia,Bad,yes 
+21,Bipolar Disorder,Bad,yes 
+24,Obsessive-Compulsive Disorder (OCD),Severe,No
+42,Post-Traumatic Stress Disorder (PTSD),Bad,Yes 
+72,Attention Deficit Hyperactivity Disorder (ADHD),Severe,yes 
+82,Autism Spectrum Disorder (ASD),Severe,yes 
+47,Down Syndrome,Good,yes 
+90,Turner Syndrome,Bad,NO
+60,Influenza (Flu),Server,No
+78,Diabetes,Good,No
+48,Cancer (Various types),Bad,yes 
+71,Hypertension (High Blood Pressure),Good,No
+22,Alzheimer's Disease,Severe,Yes 
+90,Parkinson's Disease,Severe,Yes 
+86,Asthma,Good ,No
+90,Arthritis,Good,yes 
+59,Chronic Obstructive Pulmonary Disease (COPD),Bad,yes 
+77,Tuberculosis (TB),Bad,No
+29,Hepatitis (Various types),Bad,Yes 
+58,Malaria,Bad,yes 
+90,HIV/AIDS,Bad,yes 
+80,Ebola Virus Disease,Bad,yes 
+38,Dengue Fever,Bad,NO
+50,Cholera,Bad,No
+44,Typhoid Fever,Severe,No
+63,Lyme Disease,Severe,yes 
+69,Multiple Sclerosis (MS),Bad,No
+81,Lupus (Systemic Lupus Erythematosus),Bad,Yes 
+83,Rheumatoid Arthritis,Bad,Yes 
+87,Osteoporosis,Bad,No
+60,Celiac Disease,Severe,yes 
+84,Crohn's Disease,Severe,yes 
+87,Ulcerative Colitis,Severe,No
+51,Endometriosis,Severe,Yes 
+82,Fibromyalgia,Server,yes 
+47,Chronic Fatigue Syndrome (CFS),Bad,yes 
+69,Psoriasis,Server,yes 
+79,Eczema (Atopic Dermatitis),Bad,NO
+54,Schizophrenia,Bad,No
+77,Bipolar Disorder,Severe,No
+43,Obsessive-Compulsive Disorder (OCD),Bad,yes 
+50,Post-Traumatic Stress Disorder (PTSD),Severe,No
+59,Attention Deficit Hyperactivity Disorder (ADHD),Severe,Yes 
+53,Autism Spectrum Disorder (ASD),Good,Yes 
+83,Down Syndrome,Bad,No
+79,Turner Syndrome,Server,yes 
+20,Influenza (Flu),Good,yes 
+65,Diabetes,Bad,No
+74,Cancer (Various types),Good,Yes 
+65,Hypertension (High Blood Pressure),Severe,yes 
+71,Alzheimer's Disease,Severe,yes 
+73,Parkinson's Disease,Good ,yes 
+70,Asthma,Good,NO
+49,Arthritis,Bad,No
+74,Chronic Obstructive Pulmonary Disease (COPD),Bad,No
+40,Tuberculosis (TB),Bad,yes 
+77,Hepatitis (Various types),Bad,No
+77,Malaria,Bad,Yes 
+79,HIV/AIDS,Bad,Yes 
+76,Ebola Virus Disease,Bad,No
+67,Dengue Fever,Bad,yes 
+87,Cholera,Severe,yes 
+66,Typhoid Fever,Severe,No
+45,Lyme Disease,Bad,Yes 
+49,Multiple Sclerosis (MS),Bad,yes 
+73,Lupus (Systemic Lupus Erythematosus),Bad,yes 
+90,Rheumatoid Arthritis,Bad,yes 
+86,Osteoporosis,Severe,NO
+42,Celiac Disease,Severe,No
+25,Crohn's Disease,Severe,No
+60,Ulcerative Colitis,Severe,yes 
+87,Endometriosis,Server,No
+73,Fibromyalgia,Bad,Yes 
+88,Chronic Fatigue Syndrome (CFS),Server,Yes 
+84,Psoriasis,Bad,No
+81,Eczema (Atopic Dermatitis),Bad,yes 
+74,Schizophrenia,Severe,yes 
+60,Bipolar Disorder,Bad,No
+73,Obsessive-Compulsive Disorder (OCD),Severe,Yes 
+90,Post-Traumatic Stress Disorder (PTSD),Severe,yes 
+79,Attention Deficit Hyperactivity Disorder (ADHD),Good,yes 
+83,Autism Spectrum Disorder (ASD),Bad,yes 
+34,Down Syndrome,Server,NO
+80,Turner Syndrome,Good,No
+72,Influenza (Flu),Bad,No
+67,Diabetes,Good,yes 
+61,Cancer (Various types),Severe,No
+88,Hypertension (High Blood Pressure),Severe,Yes 
+58,Alzheimer's Disease,Good ,Yes 
+67,Parkinson's Disease,Good,No
+74,Asthma,Bad,yes 
+77,Arthritis,Bad,yes 
+51,Chronic Obstructive Pulmonary Disease (COPD),Bad,No
+80,Tuberculosis (TB),Bad,Yes 
+44,Hepatitis (Various types),Bad,yes 
+77,Malaria,Bad,yes 
+88,HIV/AIDS,Bad,yes 
+84,Ebola Virus Disease,Bad,NO
+88,Dengue Fever,Severe,No
+78,Cholera,Severe,No
+57,Typhoid Fever,Bad,yes 
+77,Lyme Disease,Bad,No
+55,Multiple Sclerosis (MS),Bad,Yes 
+81,Lupus (Systemic Lupus Erythematosus),Bad,Yes 
+65,Rheumatoid Arthritis,Severe,No
+70,Osteoporosis,Severe,yes 
+80,Celiac Disease,Severe,yes 
+80,Crohn's Disease,Severe,No
+62,Ulcerative Colitis,Server,Yes 
+74,Endometriosis,Bad,yes 
+73,Fibromyalgia,Server,yes 
+74,Chronic Fatigue Syndrome (CFS),Bad,yes 
+60,Psoriasis,Bad,NO
+60,Eczema (Atopic Dermatitis),Severe,No
+79,Schizophrenia,Bad,No
+51,Bipolar Disorder,Severe,yes 
+62,Obsessive-Compulsive Disorder (OCD),Severe,No
+73,Post-Traumatic Stress Disorder (PTSD),Good,Yes 
+44,Attention Deficit Hyperactivity Disorder (ADHD),Bad,Yes 
+28,Autism Spectrum Disorder (ASD),Server,No
+72,Down Syndrome,Good,yes 
+65,Turner Syndrome,Bad,yes 
+43,Influenza (Flu),Good,No
+59,Diabetes,Severe,Yes 
+65,Cancer (Various types),Severe,yes 
+50,Hypertension (High Blood Pressure),Good ,yes 
+68,Alzheimer's Disease,Good,yes 
+57,Parkinson's Disease,Bad,NO
+83,Asthma,Bad,No
+68,Arthritis,Bad,No
+90,Chronic Obstructive Pulmonary Disease (COPD),Bad,yes 
+88,Tuberculosis (TB),Bad,No
+75,Hepatitis (Various types),Bad,Yes 
+90,Malaria,Bad,Yes 
+83,HIV/AIDS,Bad,No
+73,Ebola Virus Disease,Severe,yes 
+83,Dengue Fever,Severe,yes 
+75,Cholera,Bad,No
+38,Typhoid Fever,Bad,Yes 
+73,Lyme Disease,Bad,yes 
+81,Multiple Sclerosis (MS),Bad,yes 
+45,Lupus (Systemic Lupus Erythematosus),Severe,yes 
+77,Rheumatoid Arthritis,Severe,NO
+84,Osteoporosis,Severe,No
+66,Celiac Disease,Severe,No
+89,Crohn's Disease,Server,yes 
+46,Ulcerative Colitis,Bad,No
+69,Endometriosis,Server,Yes 
+58,Fibromyalgia,Bad,Yes 
+74,Chronic Fatigue Syndrome (CFS),Bad,No
+68,Psoriasis,Severe,yes 
+45,Eczema (Atopic Dermatitis),Bad,yes 
+85,Schizophrenia,Severe,No
+64,Bipolar Disorder,Severe,Yes 
+72,Obsessive-Compulsive Disorder (OCD),Good,yes 
+34,Post-Traumatic Stress Disorder (PTSD),Bad,yes 
+75,Attention Deficit Hyperactivity Disorder (ADHD),Server,yes 
+87,Autism Spectrum Disorder (ASD),Good,NO
+55,Down Syndrome,Bad,No
+68,Turner Syndrome,Good,No
+60,Influenza (Flu),Severe,yes 
+64,Diabetes,Severe,No
+71,Cancer (Various types),Good ,Yes 
+82,Hypertension (High Blood Pressure),Good,Yes 
+47,Alzheimer's Disease,Bad,No
+67,Parkinson's Disease,Bad,yes 
+59,Asthma,Bad,yes 
+51,Arthritis,Bad,No
+84,Chronic Obstructive Pulmonary Disease (COPD),Bad,Yes 
+77,Tuberculosis (TB),Bad,yes 
+56,Hepatitis (Various types),Bad,yes 
+78,Malaria,Bad,yes 
+90,HIV/AIDS,Severe,NO
+77,Ebola Virus Disease,Severe,No
+78,Dengue Fever,Bad,No
+63,Cholera,Bad,yes 
+88,Typhoid Fever,Bad,No
+43,Lyme Disease,Bad,Yes 
+71,Multiple Sclerosis (MS),Severe,Yes 
+85,Lupus (Systemic Lupus Erythematosus),Severe,No
+49,Rheumatoid Arthritis,Severe,yes 
+76,Osteoporosis,Severe,yes 
+65,Celiac Disease,Server,No
+71,Crohn's Disease,Bad,Yes 
+84,Ulcerative Colitis,Server,yes 
+82,Endometriosis,Bad,yes 
+90,Fibromyalgia,Bad,yes 
+57,Chronic Fatigue Syndrome (CFS),Severe,NO
+66,Psoriasis,Bad,No
+48,Eczema (Atopic Dermatitis),Severe,No
+46,Schizophrenia,Severe,yes 
+87,Bipolar Disorder,Good,No
+69,Obsessive-Compulsive Disorder (OCD),Bad,Yes 
+70,Post-Traumatic Stress Disorder (PTSD),Server,Yes 
+75,Attention Deficit Hyperactivity Disorder (ADHD),Good,No
+54,Autism Spectrum Disorder (ASD),Bad,yes 
+78,Down Syndrome,Good,yes 
+90,Turner Syndrome,Severe,No
+54,Influenza (Flu),Severe,Yes 
+43,Diabetes,Good ,yes 
+65,Cancer (Various types),Good,yes 
+74,Hypertension (High Blood Pressure),Bad,yes 
+93,Alzheimer's Disease,Bad,NO
